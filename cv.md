@@ -32,7 +32,7 @@ Ability to work independently and collaboratively in a team environment.
 
 ## Languages:
  * Russian - Native
- * English  - A1
+ * English  - A2
  * French   - A2
  * Polish   - A2+
 
